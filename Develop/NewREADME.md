@@ -22,11 +22,11 @@ na
 na
 
 ## License:
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the MIT License.
 
-## Link to license URL
-[Apache 2.0](http://www.apache.org/licenses/)
+## License URL
+[MIT] (https://opensource.org/licenses/MIT)
 
-## Link to license Badge
-[Apache 2.0][![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## License Badge
+[MIT] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
