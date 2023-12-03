@@ -63,11 +63,11 @@ ${data.contribution}
 ## Test
 ${data.test}
 
-## Your E-mail
-${data.email}
+## Questions? For Contact Information See Below:
 
-## Your Github ID
-${data.github}
+- Github Account: https://github.com/${data.github}
+
+- Feel Free To Email Me At: ${data.email}
 
 ## License:
 ${licenseSection}
