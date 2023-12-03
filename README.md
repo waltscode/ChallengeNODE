@@ -4,7 +4,9 @@
 
 - Welcome to a demonstration of what coding with node.js and javascript is capable of! 
 
-- Using inquirer to present easy to understand questions to users that they can then easily answer using the git-bash terminal. 
+- Using inquirer to present easy to understand questions to users that they can then easily answer using the git-bash terminal.
+
+- To get started, ensure you have inquirer installed. Open up your git-bash terminal and type in 'npm i'.
 
 - Simply type into the terminal 'node index.js' and you are presented with the first of a series of questions. 
 
