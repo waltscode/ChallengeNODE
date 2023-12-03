@@ -1,4 +1,4 @@
-# ChallengeNODE
+# README_Generator
 
 ## Description: 
 
@@ -37,10 +37,21 @@ THEN I am taken to the corresponding section of the README
 
 ## Link To Repository
 
+https://github.com/waltscode/README_Generator 
 
 ## Screenshot Of Application
 
+![Alt text](image.png)
 
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
+## Your NEWLY Generated README.md File Will Look Something Like This
+
+![Alt text](image-4.png)
 
 ## Link To Demonstration Video: 
 
