@@ -83,5 +83,5 @@ ${licenseBadge}
 
 
 
-module.exports = generateMarkdown; renderLicenseLink; renderLicenseBadge; 
+module.exports = generateMarkdown;
 
